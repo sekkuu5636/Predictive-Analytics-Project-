@@ -53,4 +53,4 @@ The model achieved an R² Score of 94.52%, showing strong prediction accuracy. T
 This project demonstrates how predictive analytics can be used to forecast future trends from historical data. It helps in understanding business performance and supports data-driven decision-making.
 
 ## Author
-**Sakuthala**
+** Gosala Sakuthala**
