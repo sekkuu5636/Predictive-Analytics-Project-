@@ -1,4 +1,4 @@
-# 📈 Predictive Analytics Using Historical Data
+#  Predictive Analytics Using Historical Data
 
 ## Overview
 This project focuses on predicting future sales trends using historical sales data. The dataset was cleaned, analyzed, and used to build a Linear Regression model for forecasting future sales. A Power BI dashboard was created to visualize key insights and predictions.
@@ -53,4 +53,4 @@ The model achieved an R² Score of 94.52%, showing strong prediction accuracy. T
 This project demonstrates how predictive analytics can be used to forecast future trends from historical data. It helps in understanding business performance and supports data-driven decision-making.
 
 ## Author
-** Gosala Sakuthala**
+ Gosala Sakuthala
